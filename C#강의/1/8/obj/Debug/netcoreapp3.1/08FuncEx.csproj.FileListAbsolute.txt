@@ -1,0 +1,13 @@
+D:\BCSD\C#강의\1\8\bin\Debug\netcoreapp3.1\08FuncEx.exe
+D:\BCSD\C#강의\1\8\bin\Debug\netcoreapp3.1\08FuncEx.deps.json
+D:\BCSD\C#강의\1\8\bin\Debug\netcoreapp3.1\08FuncEx.runtimeconfig.json
+D:\BCSD\C#강의\1\8\bin\Debug\netcoreapp3.1\08FuncEx.runtimeconfig.dev.json
+D:\BCSD\C#강의\1\8\bin\Debug\netcoreapp3.1\08FuncEx.dll
+D:\BCSD\C#강의\1\8\bin\Debug\netcoreapp3.1\08FuncEx.pdb
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.csprojAssemblyReference.cache
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.AssemblyInfoInputs.cache
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.AssemblyInfo.cs
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.dll
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.pdb
+D:\BCSD\C#강의\1\8\obj\Debug\netcoreapp3.1\08FuncEx.genruntimeconfig.cache

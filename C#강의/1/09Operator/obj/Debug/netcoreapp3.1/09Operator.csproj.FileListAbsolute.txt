@@ -1,0 +1,13 @@
+D:\BCSD\C#강의\1\09Operator\bin\Debug\netcoreapp3.1\09Operator.exe
+D:\BCSD\C#강의\1\09Operator\bin\Debug\netcoreapp3.1\09Operator.deps.json
+D:\BCSD\C#강의\1\09Operator\bin\Debug\netcoreapp3.1\09Operator.runtimeconfig.json
+D:\BCSD\C#강의\1\09Operator\bin\Debug\netcoreapp3.1\09Operator.runtimeconfig.dev.json
+D:\BCSD\C#강의\1\09Operator\bin\Debug\netcoreapp3.1\09Operator.dll
+D:\BCSD\C#강의\1\09Operator\bin\Debug\netcoreapp3.1\09Operator.pdb
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.csprojAssemblyReference.cache
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.AssemblyInfoInputs.cache
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.AssemblyInfo.cs
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.dll
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.pdb
+D:\BCSD\C#강의\1\09Operator\obj\Debug\netcoreapp3.1\09Operator.genruntimeconfig.cache
