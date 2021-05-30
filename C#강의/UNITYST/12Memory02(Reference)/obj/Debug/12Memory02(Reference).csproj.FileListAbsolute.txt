@@ -1,0 +1,6 @@
+D:\BCSD\C#강의\UNITYST\12Memory02(Reference)\bin\Debug\12Memory02(Reference).exe.config
+D:\BCSD\C#강의\UNITYST\12Memory02(Reference)\bin\Debug\12Memory02(Reference).exe
+D:\BCSD\C#강의\UNITYST\12Memory02(Reference)\bin\Debug\12Memory02(Reference).pdb
+D:\BCSD\C#강의\UNITYST\12Memory02(Reference)\obj\Debug\12Memory02(Reference).csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\12Memory02(Reference)\obj\Debug\12Memory02(Reference).exe
+D:\BCSD\C#강의\UNITYST\12Memory02(Reference)\obj\Debug\12Memory02(Reference).pdb

@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Memory01(Value)", "UNITYST\11Memory01(Value).csproj", "{BB013D44-6E56-461C-A345-E7B67737A71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Memory02(Reference)", "12Memory02(Reference)\12Memory02(Reference).csproj", "{357B3076-DA4E-4123-9EF2-41FEE240D306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Game", "Game", "{0AD36015-0407-479F-8075-A2E5D8DEBAA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{2F182747-46E5-4FF5-BB29-740AA4754F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13StaticVar", "13StaticVar\13StaticVar.csproj", "{266A3F80-793E-4E0A-BBC0-170E03B2B3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14StaticFunc", "14StaticFunc\14StaticFunc.csproj", "{AB67CF3A-748C-4DA9-8196-E50EE9A34B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15StaticClass", "15StaticClass\15StaticClass.csproj", "{C9CBF6FD-1BF4-4B63-94C6-566919B1FAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16This", "16This\16This.csproj", "{DD4D8D55-296A-4894-BB99-C8A3B04A2975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB013D44-6E56-461C-A345-E7B67737A71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB013D44-6E56-461C-A345-E7B67737A71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB013D44-6E56-461C-A345-E7B67737A71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB013D44-6E56-461C-A345-E7B67737A71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357B3076-DA4E-4123-9EF2-41FEE240D306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357B3076-DA4E-4123-9EF2-41FEE240D306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357B3076-DA4E-4123-9EF2-41FEE240D306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357B3076-DA4E-4123-9EF2-41FEE240D306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F182747-46E5-4FF5-BB29-740AA4754F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F182747-46E5-4FF5-BB29-740AA4754F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F182747-46E5-4FF5-BB29-740AA4754F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F182747-46E5-4FF5-BB29-740AA4754F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266A3F80-793E-4E0A-BBC0-170E03B2B3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266A3F80-793E-4E0A-BBC0-170E03B2B3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266A3F80-793E-4E0A-BBC0-170E03B2B3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266A3F80-793E-4E0A-BBC0-170E03B2B3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB67CF3A-748C-4DA9-8196-E50EE9A34B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB67CF3A-748C-4DA9-8196-E50EE9A34B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB67CF3A-748C-4DA9-8196-E50EE9A34B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB67CF3A-748C-4DA9-8196-E50EE9A34B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CBF6FD-1BF4-4B63-94C6-566919B1FAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CBF6FD-1BF4-4B63-94C6-566919B1FAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CBF6FD-1BF4-4B63-94C6-566919B1FAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CBF6FD-1BF4-4B63-94C6-566919B1FAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4D8D55-296A-4894-BB99-C8A3B04A2975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4D8D55-296A-4894-BB99-C8A3B04A2975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4D8D55-296A-4894-BB99-C8A3B04A2975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4D8D55-296A-4894-BB99-C8A3B04A2975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F182747-46E5-4FF5-BB29-740AA4754F19} = {0AD36015-0407-479F-8075-A2E5D8DEBAA9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184A334A-3420-48AC-8C61-AEBDADE9AC77}
+	EndGlobalSection
+EndGlobal

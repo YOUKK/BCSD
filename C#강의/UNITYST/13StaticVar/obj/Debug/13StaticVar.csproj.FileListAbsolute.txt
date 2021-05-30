@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\13StaticVar\bin\Debug\13StaticVar.exe.config
+D:\BCSD\C#강의\UNITYST\13StaticVar\bin\Debug\13StaticVar.exe
+D:\BCSD\C#강의\UNITYST\13StaticVar\bin\Debug\13StaticVar.pdb
+D:\BCSD\C#강의\UNITYST\13StaticVar\obj\Debug\13StaticVar.csprojAssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\13StaticVar\obj\Debug\13StaticVar.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\13StaticVar\obj\Debug\13StaticVar.exe
+D:\BCSD\C#강의\UNITYST\13StaticVar\obj\Debug\13StaticVar.pdb

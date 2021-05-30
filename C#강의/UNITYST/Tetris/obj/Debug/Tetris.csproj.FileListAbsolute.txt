@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\Tetris\bin\Debug\Tetris.exe.config
+D:\BCSD\C#강의\UNITYST\Tetris\bin\Debug\Tetris.exe
+D:\BCSD\C#강의\UNITYST\Tetris\bin\Debug\Tetris.pdb
+D:\BCSD\C#강의\UNITYST\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\Tetris\obj\Debug\Tetris.exe
+D:\BCSD\C#강의\UNITYST\Tetris\obj\Debug\Tetris.pdb

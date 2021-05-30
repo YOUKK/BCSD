@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\14StaticFunc\bin\Debug\14StaticFunc.exe.config
+D:\BCSD\C#강의\UNITYST\14StaticFunc\bin\Debug\14StaticFunc.exe
+D:\BCSD\C#강의\UNITYST\14StaticFunc\bin\Debug\14StaticFunc.pdb
+D:\BCSD\C#강의\UNITYST\14StaticFunc\obj\Debug\14StaticFunc.csprojAssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\14StaticFunc\obj\Debug\14StaticFunc.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\14StaticFunc\obj\Debug\14StaticFunc.exe
+D:\BCSD\C#강의\UNITYST\14StaticFunc\obj\Debug\14StaticFunc.pdb

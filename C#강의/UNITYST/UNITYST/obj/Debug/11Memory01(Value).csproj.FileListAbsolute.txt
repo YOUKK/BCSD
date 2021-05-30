@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\UNITYST\bin\Debug\UNITYST.exe.config
+D:\BCSD\C#강의\UNITYST\UNITYST\bin\Debug\UNITYST.exe
+D:\BCSD\C#강의\UNITYST\UNITYST\bin\Debug\UNITYST.pdb
+D:\BCSD\C#강의\UNITYST\UNITYST\obj\Debug\11Memory01(Value).csprojAssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\UNITYST\obj\Debug\11Memory01(Value).csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\UNITYST\obj\Debug\UNITYST.exe
+D:\BCSD\C#강의\UNITYST\UNITYST\obj\Debug\UNITYST.pdb

@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\15StaticClass\obj\Debug\15StaticClass.csprojAssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\15StaticClass\bin\Debug\15StaticClass.exe.config
+D:\BCSD\C#강의\UNITYST\15StaticClass\bin\Debug\15StaticClass.exe
+D:\BCSD\C#강의\UNITYST\15StaticClass\bin\Debug\15StaticClass.pdb
+D:\BCSD\C#강의\UNITYST\15StaticClass\obj\Debug\15StaticClass.exe
+D:\BCSD\C#강의\UNITYST\15StaticClass\obj\Debug\15StaticClass.pdb
