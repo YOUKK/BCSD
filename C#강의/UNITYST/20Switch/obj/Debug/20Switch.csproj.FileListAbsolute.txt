@@ -1,0 +1,6 @@
+D:\BCSD\C#강의\UNITYST\20Switch\bin\Debug\20Switch.exe.config
+D:\BCSD\C#강의\UNITYST\20Switch\bin\Debug\20Switch.exe
+D:\BCSD\C#강의\UNITYST\20Switch\bin\Debug\20Switch.pdb
+D:\BCSD\C#강의\UNITYST\20Switch\obj\Debug\20Switch.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\20Switch\obj\Debug\20Switch.exe
+D:\BCSD\C#강의\UNITYST\20Switch\obj\Debug\20Switch.pdb

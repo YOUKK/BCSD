@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\TextRpg001\bin\Debug\TextRpg001.exe.config
+D:\BCSD\C#강의\UNITYST\TextRpg001\bin\Debug\TextRpg001.exe
+D:\BCSD\C#강의\UNITYST\TextRpg001\bin\Debug\TextRpg001.pdb
+D:\BCSD\C#강의\UNITYST\TextRpg001\obj\Debug\TextRpg001.csproj.AssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\TextRpg001\obj\Debug\TextRpg001.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\TextRpg001\obj\Debug\TextRpg001.exe
+D:\BCSD\C#강의\UNITYST\TextRpg001\obj\Debug\TextRpg001.pdb

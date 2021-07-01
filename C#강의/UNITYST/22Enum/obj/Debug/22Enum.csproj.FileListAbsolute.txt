@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\22Enum\bin\Debug\22Enum.exe.config
+D:\BCSD\C#강의\UNITYST\22Enum\bin\Debug\22Enum.exe
+D:\BCSD\C#강의\UNITYST\22Enum\bin\Debug\22Enum.pdb
+D:\BCSD\C#강의\UNITYST\22Enum\obj\Debug\22Enum.csproj.AssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\22Enum\obj\Debug\22Enum.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\22Enum\obj\Debug\22Enum.exe
+D:\BCSD\C#강의\UNITYST\22Enum\obj\Debug\22Enum.pdb

@@ -1,0 +1,7 @@
+D:\BCSD\C#강의\UNITYST\17While\bin\Debug\17While.exe.config
+D:\BCSD\C#강의\UNITYST\17While\bin\Debug\17While.exe
+D:\BCSD\C#강의\UNITYST\17While\bin\Debug\17While.pdb
+D:\BCSD\C#강의\UNITYST\17While\obj\Debug\17While.csproj.AssemblyReference.cache
+D:\BCSD\C#강의\UNITYST\17While\obj\Debug\17While.csproj.CoreCompileInputs.cache
+D:\BCSD\C#강의\UNITYST\17While\obj\Debug\17While.exe
+D:\BCSD\C#강의\UNITYST\17While\obj\Debug\17While.pdb
